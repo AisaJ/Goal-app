@@ -1,0 +1,11 @@
+.btn-success{
+  background-color: rgb(169,170,221);
+  border-color: rgb(169,170,221);
+}
+#form-section{
+  background-image: url('/assets/images/plan.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
