@@ -6,6 +6,8 @@ btn-primary{
 }
 .btn-primary{
   background-color: rgb(169,170,221);
-  border-color: white;
-  
+  border-color: white;    
+}
+blockquote{
+  background-color: #dddca9;
 }
